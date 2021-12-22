@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/cvItemPesanan"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_marginVertical="7dp"
+    app:cardBackgroundColor="@color/white"
+    app:cardCornerRadius="12dp"
+    app:contentPadding="12dp">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <ImageView
+            android:id="@+id/ivIconMeja"
+            android:layout_width="45dp"
+            android:layout_height="45dp"
+            android:layout_marginTop="3dp"
+            android:layout_marginRight="10dp"
+            android:background="@drawable/box_icon"
+            android:padding="6dp"
+            android:src="@drawable/icon_meja" />
+
+        <TextView
+            android:id="@+id/tvlblNoMeja"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="-8dp"
+            android:layout_toRightOf="@+id/ivIconMeja"
+            android:fontFamily="@font/poppinsmedium"
+            android:text="@string/label_no_meja"
+            android:textColor="@color/dark_gray"
+            android:textSize="16sp" />
+
+        <TextView
+            android:id="@+id/tvNoMeja"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/tvlblNoMeja"
+            android:layout_marginVertical="-10dp"
+            android:layout_toRightOf="@+id/ivIconMeja"
+            android:fontFamily="@font/poppinsbold"
+            android:text="14"
+            android:textColor="@color/semi_black"
+            android:textSize="25sp" />
+
+        <View
+            android:id="@+id/ivLine"
+            android:layout_width="match_parent"
+            android:layout_height="0.8dp"
+            android:layout_below="@id/ivIconMeja"
+            android:layout_marginTop="10dp"
+            android:background="@android:color/darker_gray" />
+
+        <ImageView
+            android:id="@+id/ivIconNamaPemesan"
+            android:layout_width="35dp"
+            android:layout_height="35dp"
+            android:layout_below="@id/ivLine"
+            android:layout_marginTop="3dp"
+            android:layout_marginRight="10dp"
+            android:padding="6dp"
+            android:src="@drawable/icon_nama_pemesan" />
+
+        <TextView
+            android:id="@+id/tvNamaPemesan"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/ivLine"
+            android:layout_marginTop="8dp"
+            android:layout_toRightOf="@+id/ivIconNamaPemesan"
+            android:fontFamily="@font/poppinsmedium"
+            android:text="@string/cth_nama_pemesan"
+            android:textColor="@color/semi_black"
+            android:textSize="16sp" />
+
+        <ImageView
+            android:id="@+id/ivIconMakanan"
+            android:layout_width="35dp"
+            android:layout_height="35dp"
+            android:layout_below="@id/ivIconNamaPemesan"
+            android:layout_marginTop="3dp"
+            android:layout_marginRight="10dp"
+            android:padding="6dp"
+            android:src="@drawable/icon_menu_makanan" />
+
+        <TextView
+            android:id="@+id/tvNamaMenu"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/tvNamaPemesan"
+            android:layout_marginTop="10dp"
+            android:layout_toRightOf="@id/ivIconMakanan"
+            android:fontFamily="@font/poppinsmedium"
+            android:text="@string/label_paket1"
+            android:textColor="@color/semi_black"
+            android:textSize="16sp" />
+
+        <ImageView
+            android:id="@+id/ivIconUpdate"
+            android:layout_width="45dp"
+            android:layout_height="45dp"
+            android:layout_alignParentEnd="true"
+            android:layout_marginTop="3dp"
+            android:layout_marginRight="55dp"
+            android:background="@drawable/box_icon"
+            android:padding="6dp"
+            android:src="@drawable/icon_update_brown" />
+
+        <ImageView
+            android:id="@+id/ivIconDelete"
+            android:layout_width="45dp"
+            android:layout_height="45dp"
+            android:layout_alignParentEnd="true"
+            android:layout_marginTop="3dp"
+            android:background="@drawable/box_icon"
+            android:padding="6dp"
+            android:src="@drawable/icon_delete_red" />
+
+    </RelativeLayout>
+
+</androidx.cardview.widget.CardView>

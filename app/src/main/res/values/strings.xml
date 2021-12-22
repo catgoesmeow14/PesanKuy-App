@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">Pesan Kuy</string>
+    <string name="slogan">‘duduk, buka HP, pesan, tunggu’</string>
+    <string name="pemesanan_berhasil">Pemesanan Berhasil</string>
+    <string name="cth_nomeja">Meja 14</string>
+    <string name="menu_makanan">Menu Makanan</string>
+    <string name="paket1lengkap">Paket 1 (Bakso Ayam + Es Teh)</string>
+    <string name="detail_pesanan">DETAIL PESANAN</string>
+    <string name="nama_pemesan">Nama Pemesan</string>
+    <string name="cth_nama_pemesan">Himawari</string>
+    <string name="jumlah">Jumlah</string>
+    <string name="cth_jumlah">12</string>
+    <string name="tambahan">Tambahan</string>
+    <string name="cek_riwayat_pesanan">CEK DAFTAR PESANAN</string>
+    <string name="pesan_menu_anda">Pesan Menu Anda</string>
+    <string name="update_menu_anda">Update Menu Anda</string>
+    <string name="keterangan_pesan_menu">Isi sesuai pesanan yang diinginkan</string>
+    <string name="keterangan_update_menu">Edit sesuai pesanan yang diinginkan</string>
+    <string name="label_no_meja">Nomor Meja :</string>
+    <string name="placeholder_no_meja">Cth. 1</string>
+    <string name="label_nama_pemesan">Nama Pemesan :</string>
+    <string name="label_pilih_menu">Pilih Paket Menu :</string>
+    <string name="label_paket1">Paket 1</string>
+    <string name="menu_paket1">Bakso Ayam\n+ Es Teh</string>
+    <string name="label_paket2">Paket 2</string>
+    <string name="menu_paket2">Ayam Goreng\n+ Lemon Tea</string>
+    <string name="label_paket3">Paket 3</string>
+    <string name="menu_paket3">Nasi Goreng\n+ Teh Tarik</string>
+    <string name="saus_tomat">Saus Tomat</string>
+    <string name="saus_pedas">Saus Pedas</string>
+    <string name="kecap_manis">Kecap Manis</string>
+    <string name="buat_pesanan">Buat Pesanan</string>
+    <string name="update_pesanan">Update Pesanan</string>
+    <string name="daftar_pesanan">Daftar Pesanan</string>
+    <string name="riwayat_pesanan">Riwayat Pesanan Makanan</string>
+    <string name="deskripsi">Aplikasi ini dibuat untuk memudahkan pemesanan makanan ketika dine in dan mengurangi kerumunan saat antre.</string>
+
+</resources>

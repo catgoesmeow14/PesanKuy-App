@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/light_orange"
+    android:orientation="vertical"
+    tools:context=".SplashScreenActivity">
+
+    <ImageView
+        android:id="@+id/ivLogoApp"
+        android:layout_width="250dp"
+        android:layout_height="250dp"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="190dp"
+        android:src="@drawable/logo_pesankuy" />
+
+    <TextView
+        android:id="@+id/tvJudulModul"
+        android:layout_width="290dp"
+        android:layout_height="75dp"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="10dp"
+        android:layout_marginBottom="0dp"
+        android:fontFamily="@font/baksosapi"
+        android:text="@string/app_name"
+        android:textAlignment="center"
+        android:textColor="@color/dark_orange"
+        android:textSize="50sp" />
+
+    <TextView
+        android:id="@+id/tvSlogan"
+        android:layout_width="337dp"
+        android:layout_height="52dp"
+        android:layout_gravity="center_horizontal"
+        android:fontFamily="@font/kabouterdemo"
+        android:text="@string/slogan"
+        android:textAlignment="center"
+        android:textColor="@color/dark_orange"
+        android:textSize="30sp" />
+</LinearLayout>

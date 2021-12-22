@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/COOLYEAH/praktikumprogmob21/praktikum/PesanKuy/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.30720720720720723" />
+        <entry key="..\:/COOLYEAH/praktikumprogmob21/praktikum/PesanKuy/app/src/main/res/drawable/box_edittext.xml" value="0.24166666666666667" />
+        <entry key="..\:/COOLYEAH/praktikumprogmob21/praktikum/PesanKuy/app/src/main/res/drawable/box_icon.xml" value="0.30720720720720723" />
+        <entry key="..\:/COOLYEAH/praktikumprogmob21/praktikum/PesanKuy/app/src/main/res/drawable/box_lightorangepastel.xml" value="0.35520833333333335" />
+        <entry key="..\:/COOLYEAH/praktikumprogmob21/praktikum/PesanKuy/app/src/main/res/drawable/box_login.xml" value="0.35104166666666664" />
+        <entry key="..\:/COOLYEAH/praktikumprogmob21/praktikum/PesanKuy/app/src/main/res/drawable/box_logo.xml" value="0.34831460674157305" />
+        <entry key="..\:/COOLYEAH/praktikumprogmob21/praktikum/PesanKuy/app/src/main/res/drawable/box_nomeja.xml" value="0.30720720720720723" />
+        <entry key="..\:/COOLYEAH/praktikumprogmob21/praktikum/PesanKuy/app/src/main/res/drawable/box_radio.xml" value="0.30720720720720723" />
+        <entry key="..\:/COOLYEAH/praktikumprogmob21/praktikum/PesanKuy/app/src/main/res/drawable/box_search.xml" value="0.35104166666666664" />
+        <entry key="..\:/COOLYEAH/praktikumprogmob21/praktikum/PesanKuy/app/src/main/res/drawable/box_text.xml" value="0.35104166666666664" />
+        <entry key="..\:/COOLYEAH/praktikumprogmob21/praktikum/PesanKuy/app/src/main/res/drawable/box_transparantbig.xml" value="0.35520833333333335" />
+        <entry key="..\:/COOLYEAH/praktikumprogmob21/praktikum/PesanKuy/app/src/main/res/drawable/box_transparantsmall.xml" value="0.35520833333333335" />
+        <entry key="..\:/COOLYEAH/praktikumprogmob21/praktikum/PesanKuy/app/src/main/res/drawable/ic_launcher_background.xml" value="0.30720720720720723" />
+        <entry key="..\:/COOLYEAH/praktikumprogmob21/praktikum/PesanKuy/app/src/main/res/drawable/ic_launcher_foreground.xml" value="0.30720720720720723" />
+        <entry key="..\:/COOLYEAH/praktikumprogmob21/praktikum/PesanKuy/app/src/main/res/drawable/tes.xml" value="0.35520833333333335" />
+        <entry key="..\:/COOLYEAH/praktikumprogmob21/praktikum/PesanKuy/app/src/main/res/layout/activity_dashboard.xml" value="0.16220988900100908" />
+        <entry key="..\:/COOLYEAH/praktikumprogmob21/praktikum/PesanKuy/app/src/main/res/layout/activity_form.xml" value="0.2896396396396396" />
+        <entry key="..\:/COOLYEAH/praktikumprogmob21/praktikum/PesanKuy/app/src/main/res/layout/activity_hasil.xml" value="0.33" />
+        <entry key="..\:/COOLYEAH/praktikumprogmob21/praktikum/PesanKuy/app/src/main/res/layout/activity_hasil_pesanan.xml" value="0.33" />
+        <entry key="..\:/COOLYEAH/praktikumprogmob21/praktikum/PesanKuy/app/src/main/res/layout/activity_history_pesanan.xml" value="0.33" />
+        <entry key="..\:/COOLYEAH/praktikumprogmob21/praktikum/PesanKuy/app/src/main/res/layout/activity_main.xml" value="0.33" />
+        <entry key="..\:/COOLYEAH/praktikumprogmob21/praktikum/PesanKuy/app/src/main/res/layout/activity_pembayaran_iuran.xml" value="0.2896396396396396" />
+        <entry key="..\:/COOLYEAH/praktikumprogmob21/praktikum/PesanKuy/app/src/main/res/layout/activity_splash_screen.xml" value="0.33" />
+        <entry key="..\:/COOLYEAH/praktikumprogmob21/praktikum/PesanKuy/app/src/main/res/layout/activity_update_pesanan.xml" value="0.33" />
+        <entry key="..\:/COOLYEAH/praktikumprogmob21/praktikum/PesanKuy/app/src/main/res/layout/fragment_about_app.xml" value="0.25" />
+        <entry key="..\:/COOLYEAH/praktikumprogmob21/praktikum/PesanKuy/app/src/main/res/layout/fragment_history_pesanan.xml" value="0.33" />
+        <entry key="..\:/COOLYEAH/praktikumprogmob21/praktikum/PesanKuy/app/src/main/res/layout/item_history.xml" value="0.33" />
+        <entry key="..\:/COOLYEAH/praktikumprogmob21/praktikum/PesanKuy/app/src/main/res/layout/lapak_rv_item.xml" value="0.2896396396396396" />
+        <entry key="..\:/COOLYEAH/praktikumprogmob21/praktikum/PesanKuy/app/src/main/res/layout/tes.xml" value="0.25" />
+        <entry key="..\:/COOLYEAH/praktikumprogmob21/praktikum/PesanKuy/app/src/main/res/layout/test.xml" value="0.33489583333333334" />
+        <entry key="..\:/COOLYEAH/praktikumprogmob21/praktikum/PesanKuy/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.30720720720720723" />
+        <entry key="..\:/COOLYEAH/praktikumprogmob21/praktikum/PesanKuy/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.30720720720720723" />
+        <entry key="..\:/Users/VIDYA/Downloads/Compressed/PesanKuy/app/src/main/res/layout/activity_form.xml" value="0.3307291666666667" />
+        <entry key="..\:/Users/VIDYA/Downloads/Compressed/PesanKuy/app/src/main/res/layout/activity_hasil_pesanan.xml" value="0.3307291666666667" />
+        <entry key="..\:/Users/VIDYA/Downloads/Compressed/PesanKuy/app/src/main/res/layout/activity_main.xml" value="0.3307291666666667" />
+        <entry key="..\:/Users/VIDYA/Downloads/Compressed/PesanKuy/app/src/main/res/layout/activity_splash_screen.xml" value="0.3307291666666667" />
+        <entry key="..\:/Users/VIDYA/Downloads/Compressed/PesanKuy/app/src/main/res/layout/activity_update_pesanan.xml" value="0.3307291666666667" />
+        <entry key="..\:/Users/VIDYA/Downloads/Compressed/PesanKuy/app/src/main/res/layout/fragment_about_app.xml" value="0.3307291666666667" />
+        <entry key="..\:/Users/VIDYA/Downloads/Compressed/PesanKuy/app/src/main/res/layout/fragment_history_pesanan.xml" value="0.3307291666666667" />
+        <entry key="..\:/Users/VIDYA/Downloads/Compressed/PesanKuy/app/src/main/res/layout/item_history.xml" value="0.3307291666666667" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
