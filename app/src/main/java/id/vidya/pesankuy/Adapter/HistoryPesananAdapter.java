@@ -87,7 +87,7 @@ public class HistoryPesananAdapter extends RecyclerView.Adapter<HistoryPesananAd
                 // set pesan dari dialog
                 alertDialogBuilder
                         .setMessage("Apakah anda yakin ingin menghapus pesanan ini?")
-                        //  jika back dengan bawaan android, alertdialognya tidak hilang
+                        //  jika back dengan bawaan android, alertdialog-nya tidak hilang
                         .setCancelable(false)
                         .setPositiveButton("HAPUS", (dialog, id) -> {
                             DBHandler dbHandler = new DBHandler(view.getContext());

@@ -29,7 +29,7 @@ public class DBHandler extends SQLiteOpenHelper {
     private static final String COLUMN_JUMLAH = "jumlah";
     private static final String COLUMN_TAMBAHAN = "tambahan";
 
-    //	Constructor untuk ambil context dari activity yang menggunakan handler ini
+    //	Constructor untuk mengambil context dari activity yang menggunakan handler ini
     public DBHandler(@Nullable Context context) {
         //	Factory null artinya adalah Cursor SQLite yang digunakan adalah versi standar
         super(context, DATABASE_NAME, null, DATABASE_VERSION);
@@ -119,7 +119,7 @@ public class DBHandler extends SQLiteOpenHelper {
     void updateData(String row_id, String nomorMeja, String namaPemesan, String paketMenu, String jumlah, String tambahan) {
         SQLiteDatabase db = this.getWritableDatabase();
 
-        //	Content Values digunakan untuk mengabunggkan sekumpulan value yang nantinya akan dipakai untuk query ke database
+        //	Content Values untuk menggabungkan sekumpulan value yang nantinya akan dipakai untuk query ke database
         ContentValues cv = new ContentValues();
         cv.put(COLUMN_NOMOR_MEJA, nomorMeja);
         cv.put(COLUMN_NAMA_PEMESAN, namaPemesan);

@@ -70,7 +70,7 @@ public class FormActivity extends AppCompatActivity {
             rbPaket3.setChecked(true);
         });
 
-        // Cetak progress SeekBar
+        // Cetak angka progress SeekBar
         sbJumlahPesanan.setOnSeekBarChangeListener(new SeekBar.OnSeekBarChangeListener() {
             @Override
             public void onProgressChanged(SeekBar seekBar, int i, boolean b) {
